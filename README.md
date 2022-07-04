@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RamyGendy
-- 👀 I’m interested in AI, ML, DL, Data Science, Data Analysis, Embedded systems & Iot
+- 👀 I’m interested in Data Field 
 - 🌱 I’m currently learning Machine learning & Deep learning Algorithms. 
 - 💞️ I’m looking to collaborate on projects related to Artificial Intelligence, Machine Learning and Data Science.
 - 📫 How to reach me on Ramygendy90@gmail.com
