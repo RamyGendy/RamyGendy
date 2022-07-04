@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @RamyGendy
+- 👋 Hi, I’m Ramy Gendy
 - 👀 I’m interested in Data Field 
-- 🌱 I’m currently learning Machine learning & Deep learning Algorithms. 
-- 💞️ I’m looking to collaborate on projects related to Artificial Intelligence, Machine Learning and Data Science.
+- 🌱 I’m currently Technical leand at MCS and with open journey of learnings in Data world.
+- 💞️ I’m looking to collaborate on projects related to Data Processing, Analysis, Artificial Intelligence and Data Science.
 - 📫 How to reach me on Ramygendy90@gmail.com
