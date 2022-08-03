@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ramy Gendy
 - 👀 I’m interested in Data Field 
-- 🌱 I’m currently Technical leand at MCS and with open journey of learnings in Data world.
-- 💞️ I’m looking to collaborate on projects related to Data Processing, Analysis, Artificial Intelligence and Data Science.
-- 📫 How to reach me on Ramygendy90@gmail.com
+- 🌱 I’m currently Technical Product Executive at FIG Solutions and with open journey of learnings in Data world.
+- 💞️ I’m looking to collaborate on projects related to Data Preprocessing, Data Visualization, Machine Learning & Artificial Intelligence and Model Deployment.
+- 📫 you can always reach me on Ramygendy90@gmail.com  
